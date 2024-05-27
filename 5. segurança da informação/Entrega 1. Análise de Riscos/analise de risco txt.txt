@@ -1,0 +1,99 @@
+●Ataques de malware
+-Impacto: Alto
+-Probabilidade: Média
+-Os ataques de malware podem resultar em perda de dados, interrupção das operações e danos à reputação da empresa.
+
+●Phishing
+-Impacto: Médio
+-Probabilidade: Alta
+-O phishing pode resultar na divulgação de informações confidenciais dos clientes e funcionários, levando ao comprometimento da segurança da informação.
+
+●Roubo de dados de cartão de crédito
+-Impacto: Alto
+-Probabilidade: Média
+-O roubo de dados de cartão de crédito pode resultar em responsabilidade legal, multas e danos à reputação da empresa.
+
+●Ataques de ransomware
+-Impacto: Alto
+-Probabilidade: Média
+-Os ataques de ransomware podem resultar em interrupção das operações, perda de dados críticos e custos de recuperação significativos.
+
+●Acesso não autorizado aos sistemas
+-Impacto: Médio
+-Probabilidade: Média
+-O acesso não autorizado pode levar à divulgação de informações confidenciais, roubo de dados e comprometimento da segurança dos sistemas.
+
+●Vazamento de informações de clientes
+-Impacto: Alto
+-Probabilidade: Média
+-O vazamento de informações de clientes pode resultar em danos à reputação da empresa, perda de confiança dos clientes e consequências legais.
+
+●Ataques de negação de serviço (DDoS)
+-Impacto: Alto
+-Probabilidade: Baixa
+-Os ataques DDoS podem resultar em interrupção das operações, perda de receita e danos à reputação da empresa.
+
+●Fraude de identidade
+-Impacto: Médio
+-Probabilidade: Média
+-A fraude de identidade pode resultar em perda financeira, danos à reputação da empresa e impacto nas operações comerciais.
+
+●Falta de atualizações de segurança
+-Impacto: Alto
+-Probabilidade: Média
+-A falta de atualizações de segurança pode deixar os sistemas vulneráveis a ataques e explorações de vulnerabilidades conhecidas.
+
+●Violação de conformidade regulatória
+-Impacto: Alto
+-Probabilidade: Média
+-Violações regulatórias podem resultar em multas significativas, perda de licenças comerciais e danos à reputação da empresa.
+
+●Ameaças internas
+-Impacto: Médio
+-Probabilidade: Média
+-As ameaças internas, como funcionários descontentes ou mal-intencionados, podem resultar em roubo de dados, sabotagem e violações de segurança.
+
+●Perda ou roubo de dispositivos móveis
+-Impacto: Médio
+-Probabilidade: Média
+-A perda ou roubo de dispositivos móveis pode resultar na divulgação de informações confidenciais dos clientes e funcionários.
+
+●Fraude de cartão de crédito
+-Impacto: Alto
+-Probabilidade: Média
+-A fraude de cartão de crédito pode resultar em perda financeira, disputas de clientes e danos à reputação da empresa.
+
+●Vulnerabilidades de software não corrigidas
+-Impacto: Alto
+-Probabilidade: Média
+-As vulnerabilidades de software não corrigidas podem ser exploradas por invasores para comprometer a segurança dos sistemas.
+
+●Falta de conscientização em segurança da informação
+-Impacto: Médio
+-Probabilidade: Alta
+-A falta de conscientização em segurança da informação pode resultar em práticas inadequadas de segurança, aumentando o risco de incidentes de segurança.
+
+●Roubo de propriedade intelectual
+-Impacto: Alto
+-Probabilidade: Média
+-O roubo de propriedade intelectual pode resultar em perda de vantagem competitiva, danos financeiros e disputas legais.
+
+●Ataques de engenharia social
+-Impacto: Médio
+-Probabilidade: Média
+-Os ataques de engenharia social podem levar à divulgação de informações confidenciais ou à instalação de malware nos sistemas da empresa.
+
+●Falta de backups adequados
+-Impacto: Alto
+-Probabilidade: Média
+-A falta de backups adequados pode resultar na perda permanente de dados críticos em caso de falha do sistema ou ataque de ransomware.
+
+●Violação de privacidade dos clientes
+-Impacto: Alto
+-Probabilidade: Média
+-Violações de privacidade dos clientes podem resultar em danos à reputação da empresa, disputas legais e perda de confiança dos clientes.
+
+●Falta de política de segurança da informação
+-Impacto: Alto
+-Probabilidade: Média
+-A falta de uma política de segurança da informação pode deixar a empresa vulnerável a ataques, violações de dados e consequências legais.

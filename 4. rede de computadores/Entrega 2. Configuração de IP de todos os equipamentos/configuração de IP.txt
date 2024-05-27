@@ -1,0 +1,12 @@
+Classe de Rede: Classe C (192.168.0.0)
+Padrão de Rede:
+1. Servidor -192.168.0.10
+2. Gerência - 192.168.0.11
+3. Back-end - 192.168.0.12
+4. Front-end - 192.168.0.13
+5. TI / Infra - 192.168.0.14
+10. Sala de Reuniões - 192.168.0.15
+6. RH - 192.168.0.16
+7. Contas à receber - 192.168.0.17
+8. Contas à pagar - 192.168.0.18
+9. Recepção - 192.168.0.19

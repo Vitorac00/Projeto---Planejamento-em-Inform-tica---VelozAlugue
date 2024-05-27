@@ -1,0 +1,69 @@
+1.Implementação de políticas de controle de acesso aos sistemas e dados:
+
+*Gerência:
+Acesso completo a todos os dados e sistemas da empresa.
+Permissão para visualizar e modificar dados financeiros, mas com monitoramento regular para garantir conformidade e segurança.
+
+*Back-end:
+Acesso restrito aos sistemas e bancos de dados necessários para o desenvolvimento e manutenção das aplicações.
+Não ter acesso direto aos dados financeiros, a menos que especificamente autorizado para fins de resolução de problemas.
+
+*Front-end:
+Acesso aos sistemas de interface do usuário e a elementos visuais das aplicações.
+Sem acesso direto aos dados financeiros, exceto para visualização de dados não confidenciais necessários para o desenvolvimento de interfaces.
+
+*TI / Infraestrutura:
+Acesso privilegiado aos sistemas e infraestrutura de rede da empresa.
+Acesso restrito aos dados financeiros, limitado àqueles necessários para manutenção e segurança da infraestrutura.
+
+*Sala de Reuniões:
+Acesso físico restrito a membros autorizados da equipe para reuniões e apresentações.
+Nenhum acesso aos sistemas ou dados financeiros, a menos que autorizado individualmente.
+
+*RH:
+Acesso a dados pessoais dos funcionários para gestão de recursos humanos.
+Sem acesso direto aos dados financeiros, exceto para fins de processamento de folha de pagamento e reembolsos.
+
+*Contas a Receber:
+Acesso restrito aos sistemas e dados relacionados às contas a receber da empresa.
+Permissão para visualizar e modificar dados financeiros específicos às contas a receber, mas sem acesso aos dados financeiros gerais.
+
+*Contas a Pagar:
+Acesso restrito aos sistemas e dados relacionados às contas a pagar da empresa.
+Permissão para visualizar e modificar dados financeiros específicos às contas a pagar, mas sem acesso aos dados financeiros gerais.
+
+*Recepção:
+Acesso limitado aos sistemas de entrada e registro de visitantes.
+Nenhum acesso aos sistemas ou dados financeiros, exceto para fins de registro de despesas relacionadas à recepção.
+
+2.Configurações de sistemas de detecção de intrusão e prevenção de ataques:
+
+●	Sistema de Detecção de Intrusão (IDS/IPS):
+○	Configurar alertas em caso de atividades suspeitas na rede, como tentativas de acesso não autorizado, tráfego malicioso ou padrões incomuns de comportamento.
+
+●	Firewalls de Próxima Geração:
+○	Implementar firewalls capazes de inspecionar o tráfego de rede em nível de aplicação, identificando e bloqueando ameaças conhecidas e desconhecidas.
+
+●	Soluções de Antivírus/Antimalware Avançadas:
+○	Utilizar soluções de antivírus e antimalware que empregam inteligência artificial e aprendizado de máquina para identificar e neutralizar ameaças em tempo real.
+
+●	Monitoramento de Log de Segurança:
+○	Realizar monitoramento contínuo dos logs de segurança para identificar padrões suspeitos de atividade, como tentativas de login falhas, acessos a arquivos sensíveis e alterações de configuração não autorizadas.
+
+●	Análise Comportamental de Usuário e Entidade (UEBA):
+○	Implementar soluções de UEBA para detectar comportamentos anômalos de usuários e entidades dentro da rede, ajudando a identificar possíveis ameaças internas.
+
+●	Autenticação Multifatorial (MFA):
+○	Exigir autenticação multifatorial para acessar sistemas e aplicativos críticos, adicionando uma camada extra de segurança contra acesso não autorizado.
+
+●	Criptografia de Dados:
+○	Criptografar dados sensíveis em repouso e em trânsito para protegê-los contra acesso não autorizado, mesmo se forem comprometidos.
+
+●	Atualizações e Patch Management:
+○	Implementar um processo rigoroso de gerenciamento de patches para garantir que sistemas e aplicativos sejam regularmente atualizados com as últimas correções de segurança.
+
+●	Testes de Penetração e Vulnerabilidade:
+○	Realizar testes de penetração regulares para identificar e corrigir vulnerabilidades de segurança antes que sejam exploradas por invasores.
+
+●	Treinamento e Conscientização em Segurança:
+○	Fornecer treinamento regular em segurança cibernética para funcionários, educando-os sobre práticas seguras de computação, reconhecimento de ameaças e procedimentos de resposta a incidentes.
