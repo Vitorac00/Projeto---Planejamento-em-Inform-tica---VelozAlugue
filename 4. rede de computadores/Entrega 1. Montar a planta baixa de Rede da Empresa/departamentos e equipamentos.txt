@@ -1,0 +1,24 @@
+1. Servidor- 
+●	Rack com sistema de segurança física
+●	Calha de tomadas 8 tomadas 10A
+●	Painel cego 1U - 19”
+●	Organizadores de cabos 1U - 19”
+●	Switch 36 portas
+●	Bandeja deslizante 19”
+●	Sistema de ventilação
+●	Unidade de armazenamento
+●	Fonte de alimentação
+●	Baterias estacionárias
+●	No-break
+●	Plataforma de gerenciamento remoto
+●	Modem
+●	Ponto de distribuição de fibra óptica 
+2. Gerência - Computador, Impressora, Ramal e Ponto de rede.
+3. Back-end - Computador, Ponto de rede, Ramal.
+4. Front-end - Computador, Ponto de rede, Ramal.
+5. TI / infra - Computador, ponto de rede, Ramal.
+6. Sala de Reuniões - Ponto de rede, Ramal 
+7. Rh- Computador, ponto de rede, Ramal.
+8. Contas à Receber - Computador, Ponto de rede, Ramal, Impressora.
+9. Conta à Pagar - Computador, Ponto de Rede, Ramal.
+10. Recepção - Computador, Ponto de rede, Ramal, Impressora.
